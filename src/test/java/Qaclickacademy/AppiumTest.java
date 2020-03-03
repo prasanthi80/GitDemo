@@ -8,8 +8,19 @@ public class AppiumTest {
 		System.out.println("postJira");
 
 	}
-  @Test
+
+	@Test
 	public void deleteTwitter() {
 		System.out.println("deleteTwitter");
+	}
+
+	@Test
+	public void AddFacebookFriend() {
+		System.out.println("AddFacebookFriend");
+	}
+
+	@Test
+	public void DelFacebookFriend() {
+		System.out.println("DelFacebookFriend");
 	}
 }
