@@ -13,6 +13,10 @@ public class AppiumTest {
 	public void deleteTwitter() {
 		System.out.println("deleteTwitter");
 	}
+	@Test
+	public void addTwitter() {
+		System.out.println("deleteTwitter");
+	}
 
 	@Test
 	public void AddFacebookFriend() {
