@@ -8,6 +8,11 @@ public class AppiumTest {
 		System.out.println("postJira");
 
 	}
+	@Test
+	public void logoutJira() {
+		System.out.println("logoutJira");
+
+	}
 
 	@Test
 	public void deleteTwitter() {
