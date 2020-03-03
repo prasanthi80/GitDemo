@@ -22,6 +22,8 @@ public class RestAPITest {
 		System.out.println("deleteTwitter");
 		System.out.println("deleteTwitter2");
 		System.out.println("deleteTwitter2");
+		System.out.println("deleteTwitter3");
+		System.out.println("deleteTwitter3");
 	}
 
 }
